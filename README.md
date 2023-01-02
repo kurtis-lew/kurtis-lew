@@ -9,7 +9,7 @@ I'm a 3rd-year Engineering Science student at Simon Fraser University concentrat
 
 ### Contact Information
 For all business inquiries, you may contact me directly via:
-- [Email (`kurtis.a.lew@gmail.com`)](kurtis.a.lew@gmail.com)
+- Email (`kurtis.a.lew@gmail.com`)
 - [LinkedIn](https://www.linkedin.com/in/kurtislew/)
 
 
