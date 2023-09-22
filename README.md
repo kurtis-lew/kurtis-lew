@@ -1,6 +1,6 @@
 ### Hi there, I'm Kurtis (he/him) 👋
 
-I'm a 3rd-year Engineering Science student at Simon Fraser University concentrating in Electronics Engineering. Currently, I'm studying and developing new projects to gain more knowledge and skills relevant to SOC and PCB design for wireless input devices and IoT technologies.
+I'm a 4th-year Engineering Science student at Simon Fraser University concentrating in Electronics Engineering. Currently, I'm studying and developing new projects to gain more knowledge and skills relevant to SOC and PCB design for wireless input devices and IoT technologies.
 
 ### Current Endeavors
 - [**Conejo**: An OSH Keyboard Inspired by the Iris, Lily58, and Corne (crkbd) - Powered by ZMK](https://github.com/kurtis-lew/Conejo)
