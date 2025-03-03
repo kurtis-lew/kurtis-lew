@@ -1,6 +1,8 @@
-### Hi there, I'm Kurtis (he/him) 👋
+### Hi there, I'm Kurtis (they/she/he) 👋
 
-I'm a 4th-year Engineering Science student at Simon Fraser University concentrating in Electronics Engineering. Currently, I'm studying and developing new projects to gain more knowledge and skills relevant to SOC and PCB design for wireless input devices and IoT technologies.
+I'm a soon-to-be Engineering Science graduate from Simon Fraser University, concentrating in Electronics Engineering. I've spent the last few years developing my expertise in embedded systems design from both hardware and firmware standpoints, having worked at places like Solidigm and Sarcomere Dynamics to get my skills to the level they're currently at.
+
+In my free time, I'm a home cook, avid gym goer, and ergonomic mechanical keyboard fiend. I'm gearing up to seek full-time employment soon but also do freelance firmware development projects. Feel free to reach out if you're interested in connecting and discussing business opportunities!
 
 ### Current Endeavors
 - [**Conejo**: An OSH Keyboard Inspired by the Iris, Lily58, and Corne (crkbd) - Powered by ZMK](https://github.com/kurtis-lew/Conejo)
