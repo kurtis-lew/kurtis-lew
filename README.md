@@ -1,6 +1,6 @@
 ### Hi there, I'm Kurtis (they/them) 👋
 
-I'm an Engineering Science graduate from Simon Fraser University, concentrating in Electronics Engineering. I've spent the last few years developing my expertise in embedded systems design, having worked at places like Solidigm and Sarcomere Dynamics to get my hardware and firmware skills to the level they're currently at.
+I've been a computing hardware enthusiast for as long as I can remember. My formal education is in Electronics Engineering from Simon Fraser University (go Red Leafs), which complements my years working on embedded firmware through open-source contributions, freelance services, and industry work.
 
 In my free time, I'm a home cook, avid gym goer, and ergonomic mechanical keyboard fiend. Feel free to reach out if you're interested in connecting and discussing business opportunities!
 
