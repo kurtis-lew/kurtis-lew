@@ -1,12 +1,13 @@
-### Hi there, I'm Kurtis (they/them) 👋
+### Hello world, I'm Kurtis (they/them) 👋
 
-I've been a computing hardware enthusiast for as long as I can remember. My formal education is in Electronics Engineering from Simon Fraser University (go Red Leafs), which complements my years working on embedded firmware through open-source contributions, freelance services, and industry work.
+I've been a computing hardware enthusiast for as long as I can remember. My formal education is in Electronics Engineering from Simon Fraser University, which complements my years working on embedded firmware through open-source contributions, freelance services, and industry work.
 
 In my free time, I'm a home cook, avid gym goer, and ergonomic mechanical keyboard fiend. Feel free to reach out if you're interested in connecting and discussing business opportunities!
 
-### Current Endeavors
-- [**Conejo**: An OSH Keyboard Inspired by the Iris, Lily58, and Corne (crkbd) - Powered by ZMK](https://github.com/kurtis-lew/Conejo)
+### Projects
 - [**ZMK**: Regular contributions to drivers and documentation for the wireless-first keyboard firmware built upon Zephyr RTOS](https://github.com/zmkfirmware/zmk)
+- [**Electronic Materials Office®**: Firmware/software development for a future-oriented consumer hardware corporation](https://github.com/electronicmaterialsoffice)
+- [**Conejo**: An OSH Keyboard Inspired by the Iris, Lily58, and Corne (crkbd) - Powered by ZMK](https://github.com/kurtis-lew/Conejo)
 - More public releases to be added!
 
 ### Contact Information
